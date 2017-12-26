@@ -7,19 +7,20 @@
   widows: 75%;
 }
 .video-item img {
-    max-width: 64px;
+  max-width: 64px;
 }
 
 .video-detail .details {
+  font-family: sans-serif;
+  font-size: 10px;
   margin-top: 10px;
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
-
-} 
+}
 
 .list-group-item {
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .list-group-item:hover {
